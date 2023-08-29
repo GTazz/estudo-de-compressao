@@ -50,14 +50,14 @@
 
 .accordion-button::after{
     background-image: none;
-    background: url(/svg/caret-down-fill.svg);
+    background: url(/caret-down-fill.svg);
     width: 15px!important;
     height: 15px!important;
 }
 
 .accordion-button:not(.collapsed)::after{
     background-image: none;
-    background: url(/svg/caret-down-fill.svg);
+    background: url(/caret-down-fill.svg);
 }
 
 .p-5{
